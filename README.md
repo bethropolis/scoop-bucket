@@ -4,13 +4,13 @@ A [Scoop](https://scoop.sh) bucket for tools by [@bethropolis](https://github.co
 
 ## Usage
 
-```powershell
+```bash
 scoop bucket add bethropolis https://github.com/bethropolis/scoop-bucket
 ```
 
 Then install any app from this bucket:
 
-```powershell
+```bash
 scoop install bethropolis/<app>
 ```
 
