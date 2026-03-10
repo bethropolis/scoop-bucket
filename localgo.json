@@ -1,12 +1,12 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bethropolis/localgo/releases/download/v0.3.7/localgo_0.3.7_windows_amd64.zip",
+            "url": "https://github.com/bethropolis/localgo/releases/download/v0.3.8/localgo_0.3.8_windows_amd64.zip",
             "bin": [
                 "localgo.exe"
             ],
-            "hash": "7bef42f837446bc54b3e2a78bbf6aad89cd64d7d243b3bdb09d6c8ab2155e874"
+            "hash": "b98832729f33052ec75dfd339a6e568a1bc1559ea39aed6333d05ac23dd47702"
         }
     },
     "homepage": "https://github.com/bethropolis/localgo",
