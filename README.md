@@ -26,4 +26,4 @@ Manifests in this bucket are auto-generated on release via [GoReleaser](https://
 
 ## License
 
-(MIT)[./LICENCE] 
+[MIT](./LICENCE)
