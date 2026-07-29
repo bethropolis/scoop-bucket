@@ -1,15 +1,15 @@
 {
-    "version": "0.6.4",
+    "version": "0.6.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bethropolis/localgo/releases/download/v0.6.4/localgo_0.6.4_windows_amd64.zip",
+            "url": "https://github.com/bethropolis/localgo/releases/download/v0.6.5/localgo_0.6.5_windows_amd64.zip",
             "bin": [
                 "localgo.exe"
             ],
-            "hash": "ed914f0a57df0e1bb37d9d47afe3d2ab59201441100b40d2afc7896e592693b1"
+            "hash": "01db3c6470b96e2bdf80fd551ce879dc457d998ebf76145f122bc5889b50be92"
         }
     },
     "homepage": "https://github.com/bethropolis/localgo",
     "license": "MIT",
-    "description": "LocalSend v2.1 protocol implementation — LAN file transfer CLI"
+    "description": "LocalSend v2 protocol implementation. LAN file transfer CLI"
 }
