@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bethropolis/sift/releases/download/v1.1.0/sift_1.1.0_windows_amd64.zip",
+            "bin": [
+                "sift.exe"
+            ],
+            "hash": "fbece605a6b87a528d96f1fdd502341024a416a8bfbe1be8f5929b51ad6a0ab2"
+        },
+        "arm64": {
+            "url": "https://github.com/bethropolis/sift/releases/download/v1.1.0/sift_1.1.0_windows_arm64.zip",
+            "bin": [
+                "sift.exe"
+            ],
+            "hash": "7e09819c49ce35f6cf0e69f166321e9055c2716f30e6e9e5c258502ad97c0ebb"
+        }
+    },
+    "homepage": "https://github.com/bethropolis/sift",
+    "license": "MIT",
+    "description": "LLM-friendly codebase context picker"
+}
