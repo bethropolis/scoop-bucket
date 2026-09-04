@@ -1,19 +1,19 @@
 {
-    "version": "1.1.2",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bethropolis/sift/releases/download/v1.1.2/sift_1.1.2_windows_amd64.zip",
+            "url": "https://github.com/bethropolis/sift/releases/download/v1.2.0/sift_1.2.0_windows_amd64.zip",
             "bin": [
                 "sift.exe"
             ],
-            "hash": "61d7e5a48695b5e06553f1490171ceeb0cf3ff1de5837d4bed4c5cf7ce3c3663"
+            "hash": "654d6813ac5a969189fdcc346e57d2c89957ab2c31c38e3ee78ce3d2088194be"
         },
         "arm64": {
-            "url": "https://github.com/bethropolis/sift/releases/download/v1.1.2/sift_1.1.2_windows_arm64.zip",
+            "url": "https://github.com/bethropolis/sift/releases/download/v1.2.0/sift_1.2.0_windows_arm64.zip",
             "bin": [
                 "sift.exe"
             ],
-            "hash": "76f7daf98696f3d88868918d09b65e68408bcec066f72c58ae9d7c5eb8ed2c55"
+            "hash": "0df54e9a063c04f8809984d7fa96b848ba7d56b6affa1e8751e670191d55cdd4"
         }
     },
     "homepage": "https://github.com/bethropolis/sift",
